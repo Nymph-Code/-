@@ -1,0 +1,17 @@
+# 泰坦尼克号生存预测 —— 依赖
+#
+# 直接用 pip 装就行:
+#     pip install -r requirements.txt
+#
+# 我这边跑通的环境是 Python 3.9 + 下面这几个版本:
+#     torch         2.7.1
+#     pandas        2.3.3
+#     numpy         1.23.5
+#     scikit-learn  1.6.1
+#     matplotlib    3.9.4
+
+torch
+pandas
+numpy
+scikit-learn
+matplotlib

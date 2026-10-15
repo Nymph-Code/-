@@ -1,0 +1,27 @@
+{
+  "age_median": 28.0,
+  "embarked_mode": "S",
+  "age_mean": 29.498846153846156,
+  "age_std": 14.500058870492337,
+  "fare_mean": 32.5862761235955,
+  "fare_std": 51.96952935247806,
+  "title_mapping": {
+    "Mr": 1,
+    "Miss": 2,
+    "Mrs": 3,
+    "Master": 4,
+    "Rare": 5
+  },
+  "feature_columns": [
+    "Pclass",
+    "Sex",
+    "Age",
+    "SibSp",
+    "Parch",
+    "Fare",
+    "Embarked_Q",
+    "Embarked_S",
+    "Title",
+    "FamilySize"
+  ]
+}
